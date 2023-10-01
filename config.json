@@ -1,0 +1,15 @@
+{
+  "url": "https://reupeducation.com",
+  "userData": {
+    "firstName": "Bill",
+    "lastName": "Sanderson",
+    "email": "billSamdersonFakeEmal@email.com",
+    "invalidEmail": "email.email.com",
+    "phone": "+1555-5555555",
+    "previousSchool": "Test School"
+  },
+  "questions": {
+    "continuing": "I'm not sure, but I am open to discussion",
+    "whenReEnroll": "I am interested in returning within the next 6-12 months"
+  }
+}
